@@ -18,3 +18,6 @@ Decided to use Heroku for our server. The overall steps for the user to interact
 ## Deployed Application: https://immense-retreat-32852.herokuapp.com/
 
 ## ScreenShot
+<img src ="https://github.com/AnjinIsmail/zookeeper/blob/main/public/assets/images/Screen%20Shot%201.png">
+<img src ="https://github.com/AnjinIsmail/zookeeper/blob/main/public/assets/images/Screen%20Shot%202.png">
+<img src ="https://github.com/AnjinIsmail/zookeeper/blob/main/public/assets/images/Screen%20Shot%203.png">
