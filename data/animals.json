@@ -162,6 +162,22 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "cat",
+      "species": "fdf",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "cat",
+      "species": "fdf",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "18"
     }
   ]
 }
